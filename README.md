@@ -1,4 +1,4 @@
-# Ruby Sudoku Solver
+# Ruby GUI Sudoku Solver
 A Sudoku Solver in Ruby with Shoes GUI
 
 ## Basic Program
